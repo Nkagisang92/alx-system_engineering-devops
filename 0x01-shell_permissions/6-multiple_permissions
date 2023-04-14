@@ -1,2 +1,2 @@
 #!/bin/bash
- rw-r--r-- hello
+chmod 644 some_hello
